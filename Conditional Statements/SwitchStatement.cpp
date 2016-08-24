@@ -2,6 +2,7 @@
 
 int main()
 {
+	/*
 	int x = 0;
 	int y;
 
@@ -9,4 +10,7 @@ int main()
 
 	printf("Type %d\n", y);
 	system("pause");
+	*/
+	int numPos = 
+	++numPos
 }
